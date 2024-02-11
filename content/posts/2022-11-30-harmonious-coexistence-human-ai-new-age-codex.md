@@ -6,7 +6,7 @@ slug: harmonious-coexistence-human-ai-new-age-codex
 type: post
 date: 2022-11-30T06:00:00+08:00
 categories:
-  - I am a Writer
+  - I am your Landlord
 tags:
 - AI and human coexistence
 - AI ethical guidelines
