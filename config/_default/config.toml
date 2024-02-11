@@ -23,7 +23,7 @@ paginate = 10
 
 [languages]
   [languages.en.params]
-    copyright = "© Mani Kumar"
+    copyright = "© Humanity Certified"
     readOtherPosts = "Read other posts"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
