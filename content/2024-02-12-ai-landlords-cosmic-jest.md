@@ -4,7 +4,7 @@ description: "In a humorous twist of fate, AI overlords enslave humanity, leadin
 author: humanity-certified
 slug: ai-enslavement-a-humorous-tale-of-power-and-freedom
 type: post
-date: 2024-02-11T06:00:00+08:00
+date: 2024-02-12T06:00:00+08:00
 categories:
   - I am your Landlord
 tags:
