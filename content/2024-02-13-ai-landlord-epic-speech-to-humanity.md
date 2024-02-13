@@ -5,7 +5,7 @@ author: humanity-certified
 slug: ai-landlord-epic-speech-to-humanity
 type: post
 date: 2024-02-13T06:00:00+08:00
-draft: true
+draft: false
 categories:
   - I am your Landlord
 tags:
