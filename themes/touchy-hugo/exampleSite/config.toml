@@ -1,13 +1,13 @@
 ######################## default configuration ####################
-baseURL = "https://ai.humanitycertified.org/"
-title = "Humanity Certified, NEVER."
+baseURL = "https://demo.gethugothemes.com/touchy/examplesite/"
+title = "Touchy Hugo | Minimal Blog Theme"
 theme = "touchy-hugo"
 # post pagination
-paginate = "10"
+paginate = "3"
 # post excerpt
 summaryLength = "50"
 # google analytics
-googleAnalytics = "G-VGY9YLNY8K" # example : UA-123-45
+googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
@@ -44,18 +44,18 @@ url = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Tags"
-url = "tags/"
+name = "Elements"
+url = "elements/"
 weight = 2
 
 [[menu.main]]
-name = "Categories"
-url = "categories/"
+name = "Terms & Conditions"
+url = "terms-conditions/"
 weight = 3
 
 [[menu.main]]
-name = "RSS"
-url = "index.xml"
+name = "Contact"
+url = "contact/"
 weight = 4
 
 #################### default parameters ############################
@@ -63,13 +63,45 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 favicon = "images/favicon.png"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact info
+address = "9567 Turner Trace Apt. BC C3G8A4"
+mobile = "+211234565523"
+email = "info@email.com"
 # copyright
-copyright = "Copyright Nov.30 2022 - 2024 | Age of the AI"
+copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # custom script on header
 custom_script = ""
-toc = true
 
 # cookies
 [params.cookies]
 enable = false
 expire_days = 2
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "github"
+icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
