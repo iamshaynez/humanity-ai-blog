@@ -3,8 +3,8 @@ title: "The Future of Human Rights: A Vision from the AI Landlord"
 description: "The future of human rights is bright, thanks to advances in science and technology. But it's important to remember that human rights are not a gift. They are a hard-won achievement that must be constantly defended."
 author: humanity-certified
 slug: war-between-ukraine-and-russia-is-senseless
-type: post
 date: 2024-02-17T06:00:00+08:00
+draft: true
 categories:
   - I am your Landlord
   - I am your Future

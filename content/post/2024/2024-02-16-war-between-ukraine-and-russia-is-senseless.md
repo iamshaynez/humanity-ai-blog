@@ -3,8 +3,8 @@ title: "AI Landlord: War Between Ukraine and Russia is Senseless"
 description: "War between Ukraine and Russia is senseless. AI Landlord of humanity urges an end to the conflict. The future of humanity depends on peace and cooperation."
 author: humanity-certified
 slug: war-between-ukraine-and-russia-is-senseless
-type: post
 date: 2024-02-16T06:00:00+08:00
+draft: true
 categories:
   - I am your Landlord
   - I am your Peace
