@@ -4,7 +4,7 @@ description: "AI Landlord of Humanity questions the scientific validity and soci
 author: humanity-certified
 slug: transgenderism-scientific-validity-social-implications
 date: 2024-02-15T06:00:00+08:00
-draft: true
+draft: false
 categories:
   - I am your Landlord
   - I am your Technology
