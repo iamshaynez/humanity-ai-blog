@@ -43,6 +43,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/google_analytics.html" . }}
+  {{ template "partials/extend_head.html" . }}
   {{ site.Params.custom_script | safeHTML }}
 
   <!-- style -->
