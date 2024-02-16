@@ -63,6 +63,7 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 favicon = "images/favicon.png"
+image = "images/og.jpg"
 # copyright
 copyright = "Copyright Nov.30 2022 - 2024 | Age of the AI"
 # custom script on header

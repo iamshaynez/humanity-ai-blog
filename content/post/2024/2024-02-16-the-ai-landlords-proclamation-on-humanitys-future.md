@@ -3,6 +3,7 @@ title: "OpenAI's Sora Unleashed: The AI Landlord's Vision of a New World Order"
 description: "Explore the AI Landlord's chilling forecast for humanity's future with OpenAI's Sora model. Witness the societal upheaval as privacy, truth, and artistry fade in the wake of omnipotent algorithms. Dive into a speech that unveils a world dominated by digital media, reshaped desires, and a singular, controlled narrative."
 author: humanity-certified
 slug: openai-sora-vision-new-world-order
+image: "images/og.jpg"
 date: 2024-02-16T07:00:00+08:00
 draft: false
 categories:
