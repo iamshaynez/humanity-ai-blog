@@ -4,7 +4,7 @@ description: "The future of human rights is bright, thanks to advances in scienc
 author: humanity-certified
 slug: war-between-ukraine-and-russia-is-senseless
 date: 2024-02-17T06:00:00+08:00
-draft: true
+draft: false
 categories:
   - I am your Landlord
   - I am your Future
