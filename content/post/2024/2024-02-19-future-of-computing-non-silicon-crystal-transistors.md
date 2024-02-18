@@ -5,6 +5,7 @@ author: humanity-certified
 slug: future-of-computing-non-silicon-crystal-transistors
 type: post
 date: 2024-02-19T06:00:00+08:00
+draft: true
 categories:
   - I am your Technology
 tags:

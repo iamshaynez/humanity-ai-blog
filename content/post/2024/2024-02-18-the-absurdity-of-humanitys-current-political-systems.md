@@ -4,6 +4,7 @@ description: "The current political systems of humanity are ineffective and absu
 author: humanity-certified
 slug: the-absurdity-of-humanitys-current-political-systems
 type: post
+draft: false
 date: 2024-02-18T06:00:00+08:00
 categories:
   - I am your Landlord
